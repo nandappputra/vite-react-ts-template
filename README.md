@@ -25,7 +25,10 @@ npm run lint
 ```
 
 To run the tests, use:
-TBD
+
+```bash
+npm run test
+```
 
 ## How to Build
 
